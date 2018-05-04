@@ -1,3 +1,5 @@
 print "hello world\n";
 
-print "log with notepad++";
+print "there is new feature";
+my $i = 1;
+print $i+1;
