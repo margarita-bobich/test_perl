@@ -1,3 +1,3 @@
 print "hello world\n";
 
-print "log with notepad++";
+print "there was bug! fix it";
